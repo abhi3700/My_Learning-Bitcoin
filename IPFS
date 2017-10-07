@@ -1,0 +1,30 @@
+IPFS is a protocol like HTTP, but for decentralized Internet. Unlike HTTP, IPFS is very futuristic and cuts off all the demerits which HTTP has/ had for several years.
+
+HTTP's problems:-
+A. Bandwidth - The cost of storage devices has gone down remarkably, right from large storage devices to smaller storage devices. And the bandwidth has not increased w.r.t demand by the world. E.g. Very often we get to see that people are unable to fetch the website and one of the reasons could be the 'no. of simultaneous connections' to that particular website. The comparison b/w the two - Storage device cost v/s Bandwidth increase cost. Clearly, the first wins.
+
+Image - ![bandwidth_11.jpg](https://steemitimages.com/DQmScExfQfB76JfchvEZZ5NngJaE6xDytf1xTfF1SBfsjNB/bandwidth_11.jpg)
+
+    More and more people are coming online fast, with increasing rate of internet users (Info - a large section of AFRICA's population is digitally cut-off from the world). Even if we ignore the population growth rate, still the no. of internet users is growing with the  advent of cheaper services being provided by companies like what JIO did in India. So, in future, if the entire world is taken into consideration that they are connected to the existing World Wide Web (WWW), the data fetching from the centralised server is going to be utterly slow. Hence, all our works won't work fast. Everything shall come to HALT.
+
+B. Latency - This data fetching will lead to this problem called 'Latency'. That is the reason that the cloud storage companies came up. E.g. Google's Firebase, Microsoft's Azure, Amazon's AWS, Dropbox, Box, etc. These companies are collecting huge amount of data and contains huge bandwidth as well. But still, that is the not the solution with incremental rate of users.
+Image - ![bandwith-vs-latency.png](https://steemitimages.com/DQmdr3SgJUqdZek4ULT6rfs7tvLwhHUGmPNcCZdAiAucnNZ/bandwith-vs-latency.png)
+
+C. Resiliency - If a data is deleted from a server, then that data is lost forever. 
+    Heard of 'Error 404: Forbidden'? It is that case. It means that the data stored in that link is deleted or moved to a new location.
+    So, if that data had been copied somewhere, then this case would not have arisen. Think of having multiple nodes storing same data. So, even if one  node goes off, no problem still. We have several other nodes open for data fetching.
+    Image - ![MjkxMDg2OA.jpeg](https://steemitimages.com/DQmQ3LJTTk2xWLhfdMoMeAhnLhhmmq8rcBBfxJaFqYTemLs/MjkxMDg2OA.jpeg)
+    
+D. Centralization - Too many companies own our data. And this isn't great at all. Because this services could be shut down by the government. We have seen such issues in the past. Also, most persons aren't aware of the fact that what is being done to our data (personal). These companies often claim that their endeavour is to provide best services analyzing our data. And we stay satisfied and not question instead. 
+Image - ![AAEAAQAAAAAAAAYqAAAAJDU4NDcwNGE5LWM0ZGMtNDgyOS05ODRkLTU3ZGVhYTM5MjVjOQ.jpg](https://steemitimages.com/DQmRhzXw3UEnVzEPcM3o3fNB8UTbRfu6UqSEM1d8fejTUa5/AAEAAQAAAAAAAAYqAAAAJDU4NDcwNGE5LWM0ZGMtNDgyOS05ODRkLTU3ZGVhYTM5MjVjOQ.jpg)
+
+Conclusion: 
+HTTP is slow, impermanent and centralized. 
+Whereas, IPFS is content-based protocol, not IP-based. 
+
+
+References:- 
+1. Video link - https://www.youtube.com/watch?v=BA2rHlbB5i0 
+2. Official website - https://ipfs.io/
+3. Github's codebase - https://github.com/ipfs/ipfs
+4. My Steemit link - https://steemit.com/internet/@abhi3700/ipfs-a-new-protocol-for-decentralised-internet
