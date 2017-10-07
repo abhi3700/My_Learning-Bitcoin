@@ -22,7 +22,9 @@ Conclusion:
 HTTP is slow, impermanent and centralized. 
 Whereas, IPFS is content-based protocol, not IP-based. 
 It uses a DHT to store data, a merkleDAG to give it structure and a bittorrent mechanism to exchange data.
-References:- 
+
+
+Resources:- 
 1. Video link - https://www.youtube.com/watch?v=BA2rHlbB5i0 
 2. Official website - https://ipfs.io/
 3. Github's codebase - https://github.com/ipfs/ipfs
