@@ -10,6 +10,11 @@ A. Strong 2-way RP -
 B. Opt-in RP - 
         # transactions from chain X need to do something to be invalid on chain Y.
         # E.g. it is more like a door you have to remember to lock, because otherwise the transaction may escape chain X and get into chain Y.
-        
+
+Example: 
+Recently, in Bitcoin Segwit2x, it is mentioned that there is no 'replay protection'. This means that the transactions happening with the B2X coins on the new blockchain might take place with the BTC there in Bitcoin network.
+They are not taking any corrective measure and the exchanges will have to take the responsibility for any coin's loss.
+
+
 References:
 link - https://bitcointechtalk.com/how-segwit2x-replay-protection-works-1a5e41767103 
