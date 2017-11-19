@@ -7,3 +7,8 @@ Bitcoin is a p2p decentralised network created mainly for transferring money amo
 * Bitcoin whitepaper beginner guide - https://www.bitcoin.com/guides/bitcoin-white-paper-beginner-guide
 * Bitcoin Academy - https://academy.bitcoin.com/#/welcome
 
+### Books
+* Blocks and Chains: introduction to bitcoin cryptocurrencies and their consensus mechanisms - http://www.morganclaypoolpublishers.com/catalog_Orig/samples/9781627057134_sample.pdf
+* 
+
+
