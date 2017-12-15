@@ -8,6 +8,7 @@ Bitcoin is a p2p decentralised network created mainly for transferring money amo
 * Bitcoin Academy - https://academy.bitcoin.com/#/welcome
 
 ### Books
+* Mastering Bitcoin by Andrew Antonopoulas- https://github.com/bitcoinbook/bitcoinbook 
 * Blocks and Chains: introduction to bitcoin cryptocurrencies and their consensus mechanisms - http://www.morganclaypoolpublishers.com/catalog_Orig/samples/9781627057134_sample.pdf
 * 
 
