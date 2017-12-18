@@ -1,6 +1,7 @@
 Please visit Part 1 below:
-**Utopian** - https://utopian.io/utopian-io/@abhi3700/learn-bitcoin-python-1-installation-guide-basic-commands
-**Steemit** - https://steemit.com/utopian-io/@abhi3700/learn-bitcoin-python-1-installation-guide-basic-commands
+* **Utopian** - https://utopian.io/utopian-io/@abhi3700/learn-bitcoin-python-1-installation-guide-basic-commands
+* **Steemit** - https://steemit.com/utopian-io/@abhi3700/learn-bitcoin-python-1-installation-guide-basic-commands
+
 
 ## Bitcoin Price API
 Here, we fetch the **Bitcoin-price** using an API provided by **Coindesk**.
