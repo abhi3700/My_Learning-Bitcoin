@@ -6,6 +6,7 @@ Bitcoin is a p2p decentralised network created mainly for transferring money amo
 * Bitcoin whitepaper (original) - https://bitcoin.org/bitcoin.pdf 
 * Bitcoin whitepaper beginner guide - https://www.bitcoin.com/guides/bitcoin-white-paper-beginner-guide
 * Bitcoin Academy - https://academy.bitcoin.com/#/welcome
+* Bitcoin playlist by KHAN Academy - [YouTube](https://www.youtube.com/watch?v=Y-w7SnQWwVA&list=PLQb8htRul9xAz70xZUmqxX_oPe3_rz-PJ)
 
 ## Books
 * Mastering Bitcoin by Andreas Antonopoulas- https://github.com/bitcoinbook/bitcoinbook 
@@ -26,5 +27,5 @@ Bitcoin is a p2p decentralised network created mainly for transferring money amo
 
 
 ## Mining
-* Lightning Talk: Bitcoin mining on Python - PyConSG 2016 https://www.youtube.com/watch?v=jVEszkzbyCw
-* Hashing, Encryption, Blockchain & Bitcoin Mining with Python - https://www.youtube.com/watch?v=8ke8xn60MIc
+* Lightning Talk: Bitcoin mining on Python - PyConSG 2016 [Youtube](https://www.youtube.com/watch?v=jVEszkzbyCw)
+* Hashing, Encryption, Blockchain & Bitcoin Mining with Python - [Youtube](https://www.youtube.com/watch?v=8ke8xn60MIc)
